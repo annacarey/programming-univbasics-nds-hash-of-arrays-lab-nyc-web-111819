@@ -9,5 +9,5 @@ def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
   
-  show.keys[0].push(name)
+  show[:chipmunks].push("")
 end
